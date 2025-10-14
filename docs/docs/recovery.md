@@ -34,3 +34,5 @@ Luckily, the Binary STL specification leaves 2 bytes (the _attribute byte count_
 VisCAM and SolidView, the two applications which are [documented](https://en.wikipedia.org/wiki/STL_(file_format)#Binary) to use the attribute byte count for color information, only consider the attribute valid if bit 15 is set to `1`. URLs [consist only of ASCII Characters](https://www.ietf.org/rfc/rfc3986.txt) and ASCII characters use only 7 bits, so in terms of bits information is laid out like `0####### 0#######`. The 15th bit will always be `0`, which means the encoded URL will not interfere with such applications. Yay computer science!
 
 <!-- Auto-update: 2025-10-14T12:03:41.341115 -->
+
+<!-- Auto-update: 2025-10-14T15:51:12.764164 -->

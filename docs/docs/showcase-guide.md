@@ -28,3 +28,5 @@ And very optional things:
 Almost every keyboard in the showcase has been a result of me asking the original poster if they'd like their keyboard in the showcase, then receiving the extra required informaion.
 
 However, if you are adventurous you can also open a pull request against the Cosmos repository to add your keyboard to the showcase. Follow the instructions [here](https://github.com/rianadon/Cosmos-Keyboards/issues/43#issuecomment-2594455810) for that.
+
+<!-- Auto-update: 2025-10-18T10:24:42.004520 -->
